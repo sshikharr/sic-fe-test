@@ -17,7 +17,7 @@ export default defineConfig({
     open: true,
   },
   preview: {
-    allowedHosts: ["modelmovementcontrolfrontend-2m1s.onrender.com", "modelmovementcontrol-11.onrender.com","modelmovementcontrol-112.onrender.com", "https://sic-fe-test.onrender.com"],
+    allowedHosts: ["modelmovementcontrolfrontend-2m1s.onrender.com", "modelmovementcontrol-11.onrender.com","modelmovementcontrol-112.onrender.com", "https://sic-fe-test.onrender.com", "sic-fe-test.onrender.com"],
   },
   resolve: {
     alias: {
